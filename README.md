@@ -6,8 +6,8 @@
 ## Key
 **关键词：Paddlepaddle、Rraspberry Pi、AI-bigdata、智能手环** 
 
-## 功能设计
-()[]
+## 功能设计图
+![image](https://github.com/lzb-James/-AI-/blob/main/%E5%9B%BE%E7%89%871.png)
 ```
   
   人脸识别
