@@ -50,4 +50,7 @@
 
 ```
 ## 效果
-![image]()
+
+
+## 证书
+![image](https://github.com/lzb-James/-AI-/blob/main/2%20(2).jpg)
