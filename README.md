@@ -53,6 +53,6 @@
 
 ![image](https://github.com/lzb-James/-AI-/blob/main/2020-10-19%2009_31_07-%E5%90%AF%E5%8A%A8.png)
 
-![image]()
+![image](https://github.com/lzb-James/-AI-/blob/main/f33b4a02375d72b67e0768e5717f1ac.jpg)
 ## 证书
 ![image](https://github.com/lzb-James/-AI-/blob/main/2%20(2).jpg)
